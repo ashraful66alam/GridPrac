@@ -1,0 +1,12 @@
+.container div:nth-child(odd){
+background: red;
+}
+.container div:nth-child(even){
+background: green;
+}
+.container div{
+	text-align: center;
+	color: whitesmoke;
+	font-size: x-large;
+	font-weight: bolder;
+}

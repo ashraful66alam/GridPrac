@@ -1,0 +1,18 @@
+.header{
+	background: purple;
+}
+.menu{
+	background: red;
+}
+.contents{
+	background: green;
+}
+.footer{
+	background: blue;
+}
+.container div{
+	text-align: center;
+	font-size: large;
+	color: white;
+	font-weight: 600;
+}
